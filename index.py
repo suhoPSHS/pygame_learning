@@ -1,3 +1,9 @@
+#references
+#https://www.pygame.org/docs/ref/key.html
+#https://jbmpa.tistory.com/category/Pygame?page=1
+
+
+
 import pygame
 
 pygame.init()
